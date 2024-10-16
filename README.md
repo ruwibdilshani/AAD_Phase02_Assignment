@@ -1,4 +1,12 @@
-# 🛒 POS System REST API
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&color=green&width=835&height=70&lines=🛒+POS+System+REST+API" alt="pos" /></a>
+
+# POS System Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaEE](https://img.shields.io/badge/JavaEE-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
 
 ## 📜 Project Description
 This project is a **REST API** for a **Point of Sale (POS) System**, built with **Spring Boot** and **Spring Data JPA**. It supports CRUD operations for **Customers**, **Items**, **Orders**, and **Order Details**, designed to manage the core functionalities of a POS system. The back-end uses **MySQL** for database management and follows a clean, layered architecture.
@@ -75,3 +83,9 @@ Before running the project, ensure you have the following installed:
 | `POST`   | `/api/order-details`         | Create new order details        |
 | `GET`    | `/api/order-details/{id}`    | Get order details by ID         |
 
+
+<div align="center">
+
+#### © 2024 All Right Reserved, Designed By [Ruwi B Dilshani] (https://github.com/ruwibdilshani)
+
+</div>
