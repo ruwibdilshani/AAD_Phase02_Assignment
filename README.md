@@ -84,6 +84,12 @@ Before running the project, ensure you have the following installed:
 | `GET`    | `/api/order-details/{id}`    | Get order details by ID         |
 
 
+## API EndPoint Documentation
+
+### https://documenter.getpostman.com/view/36641894/2sAXxV4pXw
+
+
+
 <div align="center">
 
 #### © 2024 All Right Reserved, Designed By [Ruwi B Dilshani] (https://github.com/ruwibdilshani)
