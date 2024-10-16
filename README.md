@@ -47,27 +47,27 @@ Before running the project, ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ruwibdilshani/AAD_Phase02_Assignment.git
-   cd pos-system-backend
+   cd pos-system-backenda
 
    ## 📚 Available API Endpoints
 
 ### 🔗 Customer API
 | Method   | Endpoint                    | Description                    |
 |----------|-----------------------------|--------------------------------|
-| `GET`    | `/api/customers`             | Get all customers               |
-| `POST`   | `/api/customers`             | Create a new customer           |
-| `GET`    | `/api/customers/{id}`        | Get customer by ID              |
-| `PUT`    | `/api/customers/{id}`        | Update customer by ID           |
-| `DELETE` | `/api/customers/{id}`        | Delete customer by ID           |
+| `GET`    | `/api/v1/customer`             | Get all customers               |
+| `POST`   | `/api/v1/customer`             | Create a new customer           |
+| `GET`    | `/api/v1/customer/{id}`        | Get customer by ID              |
+| `PUT`    | `/api/v1/customer/{id}`        | Update customer by ID           |
+| `DELETE` | `/api/v1/customer/{id}`        | Delete customer by ID           |
 
 ### 🛒 Item API
 | Method   | Endpoint                    | Description                    |
 |----------|-----------------------------|--------------------------------|
-| `GET`    | `/api/items`                 | Get all items                   |
-| `POST`   | `/api/items`                 | Create a new item               |
-| `GET`    | `/api/items/{id}`            | Get item by ID                  |
-| `PUT`    | `/api/items/{id}`            | Update item by ID               |
-| `DELETE` | `/api/items/{id}`            | Delete item by ID               |
+| `GET`    | `/api/v1/item`                 | Get all items                   |
+| `POST`   | `/api/v1/item`                 | Create a new item               |
+| `GET`    | `/api/v1/item/{id}`            | Get item by ID                  |
+| `PUT`    | `/api/v1/item/{id}`            | Update item by ID               |
+| `DELETE` | `/api/v1/item/{id}`            | Delete item by ID               |
 
 ### 🛍️ Order API
 | Method   | Endpoint                    | Description                    |
@@ -79,9 +79,9 @@ Before running the project, ensure you have the following installed:
 ### 🧾 Order Details API
 | Method   | Endpoint                    | Description                    |
 |----------|-----------------------------|--------------------------------|
-| `GET`    | `/api/order-details`         | Get all order details           |
-| `POST`   | `/api/order-details`         | Create new order details        |
-| `GET`    | `/api/order-details/{id}`    | Get order details by ID         |
+| `GET`    | `/api/v1/orders`         | Get all order details           |
+| `POST`   | `/api/v1/orders`         | Create new order details        |
+| `GET`    | `/api/v1/orders/{id}`    | Get order details by ID         |
 
 
 ## API EndPoint Documentation
@@ -95,3 +95,8 @@ Before running the project, ensure you have the following installed:
 #### © 2024 All Right Reserved, Designed By [Ruwi B Dilshani] (https://github.com/ruwibdilshani)
 
 </div>
+
+
+
+
+
